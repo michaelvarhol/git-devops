@@ -6,7 +6,7 @@
 ###### This is an <h6> tag
 #### Velka panika sa siri <h4>
 
-pocitac
+pocitace
 
-Internet
+Internety
 
