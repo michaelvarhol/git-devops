@@ -1,12 +1,7 @@
-# This is an <h1> tak
 ## This is an <h2> tag
 # This is an <h1> tag
-### Toto je <h3> tag
+### Toto je <h3> tagy
 ## Siri sa panika <h2>
 ###### This is an <h6> tag
 #### Velka panika sa siri <h4>
-
-pocitac
-
-Internet
-
+novy internet
